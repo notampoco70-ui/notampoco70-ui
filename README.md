@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Juan Diego Pérez Hernández
 
-<!--
-**notampoco70-ui/notampoco70-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focusing on full-stack web development, backend architecture, and cloud services. 
 
-Here are some ideas to get you started:
+### About Me
+- Currently studying B.S. in Software Development Engineering at Universidad Tecmilenio.
+- Interested in backend systems, RESTful API design, and relational database management.
+- AWS Academy Graduate & Python Certified.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Languages:** Python, JavaScript, SQL, HTML/CSS
+- **Backend & Web:** FastAPI, Streamlit, Pydantic, SQLAlchemy
+- **Databases:** MySQL, SQLite, MariaDB
+- **Tools & Cloud:** AWS (VPC, EC2), Git, GitHub, VS Code, Linux
+
+### Projects in Progress
+- **NowBack:** Full-stack lost and found application backend built with FastAPI, SQLAlchemy, and JWT authentication.
+- **Chess Database Manager:** Relational schema and Python scripts for tournament logging and ELO calculations.
+
+### Connect
+- **LinkedIn:** www.linkedin.com/in/juan-diego-pérez-hernández-22798144a
+- **Email:** notampoco70@gmail.com
